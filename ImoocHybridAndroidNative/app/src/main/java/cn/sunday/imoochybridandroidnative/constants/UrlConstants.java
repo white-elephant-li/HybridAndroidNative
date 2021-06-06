@@ -10,6 +10,6 @@ public class UrlConstants {
      * <domain includeSubdomains="true">imooc.hybrid.lgdsunday.club</domain>
      * 注意：domain 中必须保存 lgdsunday.club 以应对接口中图片资源的访问
      */
-    public static final String BASE_WEB_URL = "http://192.168.3.12:8080/";
+    public static final String BASE_WEB_URL = "http://ligang666.top/";
 
 }
