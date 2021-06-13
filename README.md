@@ -12,6 +12,4 @@
  3. 注意：`domain` 中必须保存 `lgdsunday.club` 以应对接口中图片资源的访问
 
 #### 正式版APP
-
- 1. 打包之后的正式版本 `APK` 安装包位于 `/imooc_jd_android_complete/ImoocHybridAndroidNative/app/release/慕课网高仿京东商城.apk` 中。
- 2. **注意**：如需测试 **微信支付** ，需要使用正式版本  `APK` 。（安装正式版本 `APK` 到手机） 
+ 1. **注意**：如需测试 **微信支付** ，需要使用正式版本  `APK` 。（安装正式版本 `APK` 到手机） 
